@@ -1,0 +1,31 @@
+.product-row-container{
+    border: 1px solid black;
+    text-align: left;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    
+    
+    
+    
+}
+
+.product-grade-bad{
+    color: red;
+    font-weight: bold;
+    
+    
+}
+
+
+.uno{
+    
+    word-spacing: 2cm;
+    margin-left: 2.5cm;
+    
+}
+
+#red {
+    color: red;
+    font-weight: bold;
+    
+}
